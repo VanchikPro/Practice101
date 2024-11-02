@@ -1,0 +1,35 @@
+commit a03560c1fdc121d0cd0b2252d2aaf353baf344f0
+Author: samb1232 <arterm212@gmail.com>
+Date:   Sat Nov 2 11:15:57 2024 +0500
+
+    added prerelease.txt
+
+commit 2abdbb317c4c21a87102fb482147253b59618b7f
+Author: samb1232 <arterm212@gmail.com>
+Date:   Sat Nov 2 11:17:28 2024 +0500
+
+    added test.txt'
+
+commit 699f6895d4a55ecf1533ad56215f807f54027c20
+Author: samb1232 <arterm212@gmail.com>
+Date:   Sat Nov 2 11:14:24 2024 +0500
+
+    added .gitignore
+
+commit ed0af49db9cd686e1bbe2a4e5e6ef83fb3b20eff
+Author: samb1232 <arterm212@gmail.com>
+Date:   Sat Nov 2 11:10:45 2024 +0500
+
+    added audit num
+
+commit 916e878368ec0e7cb6da82352d22555b2f9270b8
+Author: samb1232 <arterm212@gmail.com>
+Date:   Sat Nov 2 11:03:12 2024 +0500
+
+    added complexity status, changed
+
+commit 5533172130ac3d6893f0410b8cdc8078c1b3c7ff
+Author: samb1232 <arterm212@gmail.com>
+Date:   Sat Nov 2 10:59:57 2024 +0500
+
+    Initial commit

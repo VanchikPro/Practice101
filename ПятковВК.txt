@@ -1,53 +1,43 @@
-commit 10b223c371fcd8dae2f613c30d40b4d5087a317b
-Author: Simeon <simeon02908@gmail.com>
-Date:   Sat Nov 2 12:11:27 2024 +0500
+commit eae55f8c8871ebae64d275ae6c0e2a2be3b1ce42
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:54:17 2024 +0500
 
-    Grishin commit
+    Добавил prerelease.txt
 
-commit 3e606994ba4dde341d7f152a8f6af36436ba04b8
-Author: Efim Denisov <efim.denisov@gmail.com>
-Date:   Sat Nov 2 12:03:47 2024 +0500
+commit 39046285946dc8ce3db1dfb8e13ea8c73b8e703f
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:52:51 2024 +0500
 
-    denisovea commit
+    Добавил txt
 
-commit aa3978605fe4cf8cbec2e37b45a531cefacf4aae
-Author: Vaganov Vladislav <vaganovlad@gmail.com>
-Date:   Sat Nov 2 11:46:29 2024 +0500
+commit 44b9a18a789e1829dbee6968a8ca9c060d1a56aa
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:48:51 2024 +0500
 
-    Ваганов commit
+    Добавил gitignore
 
-commit 73697d7c62a315bc7033d70433e97a72353a629f
-Author: samb1232 <arterm212@gmail.com>
-Date:   Sat Nov 2 11:43:33 2024 +0500
+commit 55e5b6754aebd86503e3221dbae17875c258fb3f
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:45:31 2024 +0500
 
-    Artem Denisov commit
+    Revert "Мой второй коммит, изменил"
 
-commit 29998550f86905540c80203fa80da43c7d3dc13b
-Author: Dmitry Ishoev <26188825+NetVoobrazhenia@users.noreply.github.com>
-Date:   Sat Nov 2 11:29:36 2024 +0500
+    This reverts commit 6968f32fe310707754999956e8483dde9bf3b250.
 
-    ishoev
+commit 08690d2edab913c935cdeeb2670e7bde949bc005
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:41:49 2024 +0500
 
-commit 25c06836f03fbaa3e9fd88b4d98319df431230db
-Author: RTF\student <test>
-Date:   Sat Nov 2 11:09:06 2024 +0500
+    Мой третий коммит
 
-    encoding
+commit 6968f32fe310707754999956e8483dde9bf3b250
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:32:10 2024 +0500
 
-commit aedf2e9a35769a2121e13b18bc2ec1dc5c0bb6dc
-Author: RTF\student <test>
-Date:   Sat Nov 2 10:55:10 2024 +0500
+    Мой второй коммит, изменил
 
-    test 2
+commit e9a277a4c8d896c82e51874b5d9cdcf141a70bbc
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:29:52 2024 +0500
 
-commit 1c05a3887bb12f0bfb88212d040059783264b81c
-Author: RTF\student <test>
-Date:   Sat Nov 2 10:43:50 2024 +0500
-
-    test commit
-
-commit 94a240a4fb9d00972b9fa12b2a05f7d544c64108
-Author: Plazmer <praw2003@gmail.com>
-Date:   Fri Nov 1 19:54:00 2024 +0500
-
-    Initial commit
+    Мой первый коммит

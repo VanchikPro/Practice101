@@ -1,0 +1,53 @@
+commit 10b223c371fcd8dae2f613c30d40b4d5087a317b
+Author: Simeon <simeon02908@gmail.com>
+Date:   Sat Nov 2 12:11:27 2024 +0500
+
+    Grishin commit
+
+commit 3e606994ba4dde341d7f152a8f6af36436ba04b8
+Author: Efim Denisov <efim.denisov@gmail.com>
+Date:   Sat Nov 2 12:03:47 2024 +0500
+
+    denisovea commit
+
+commit aa3978605fe4cf8cbec2e37b45a531cefacf4aae
+Author: Vaganov Vladislav <vaganovlad@gmail.com>
+Date:   Sat Nov 2 11:46:29 2024 +0500
+
+    Ваганов commit
+
+commit 73697d7c62a315bc7033d70433e97a72353a629f
+Author: samb1232 <arterm212@gmail.com>
+Date:   Sat Nov 2 11:43:33 2024 +0500
+
+    Artem Denisov commit
+
+commit 29998550f86905540c80203fa80da43c7d3dc13b
+Author: Dmitry Ishoev <26188825+NetVoobrazhenia@users.noreply.github.com>
+Date:   Sat Nov 2 11:29:36 2024 +0500
+
+    ishoev
+
+commit 25c06836f03fbaa3e9fd88b4d98319df431230db
+Author: RTF\student <test>
+Date:   Sat Nov 2 11:09:06 2024 +0500
+
+    encoding
+
+commit aedf2e9a35769a2121e13b18bc2ec1dc5c0bb6dc
+Author: RTF\student <test>
+Date:   Sat Nov 2 10:55:10 2024 +0500
+
+    test 2
+
+commit 1c05a3887bb12f0bfb88212d040059783264b81c
+Author: RTF\student <test>
+Date:   Sat Nov 2 10:43:50 2024 +0500
+
+    test commit
+
+commit 94a240a4fb9d00972b9fa12b2a05f7d544c64108
+Author: Plazmer <praw2003@gmail.com>
+Date:   Fri Nov 1 19:54:00 2024 +0500
+
+    Initial commit

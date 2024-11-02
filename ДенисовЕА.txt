@@ -1,0 +1,43 @@
+commit c80d7d2c0feed3dbed272bf259d10e71b3ac77d8
+Author: Efim Denisov <efim.denisov@gmail.com>
+Date:   Sat Nov 2 11:07:15 2024 +0500
+
+    мой первый коммит в prerelease
+
+commit dc8d29dfac9db7bb661310a867604be72d887979
+Author: Efim Denisov <efim.denisov@gmail.com>
+Date:   Sat Nov 2 11:06:28 2024 +0500
+
+    мой первый комит в ветке TEST
+
+commit 58b22b3d317bfcb457a645d4c511883395c53b5f
+Author: Efim Denisov <efim.denisov@gmail.com>
+Date:   Sat Nov 2 11:03:56 2024 +0500
+
+    добавил .gitignore
+
+commit 5f3f4295539da7e6551ec1358cdec60cf90a77e9
+Author: Efim Denisov <efim.denisov@gmail.com>
+Date:   Sat Nov 2 11:01:35 2024 +0500
+
+    Revert "мой второй коммит, поправил x2"
+    
+    This reverts commit eb0639b165ccea52de31a8fad227b55c2c27eda4.
+
+commit 8d440dad3171a34faefe6df857b24de572c16b16
+Author: Efim Denisov <efim.denisov@gmail.com>
+Date:   Sat Nov 2 10:59:43 2024 +0500
+
+    мой третий коммит
+
+commit eb0639b165ccea52de31a8fad227b55c2c27eda4
+Author: Efim Denisov <efim.denisov@gmail.com>
+Date:   Sat Nov 2 10:57:18 2024 +0500
+
+    мой второй коммит, поправил x2
+
+commit a503d5fe1c82c44e056c7be14c0fdd7134b46c9a
+Author: Efim Denisov <efim.denisov@gmail.com>
+Date:   Sat Nov 2 10:55:36 2024 +0500
+
+    мой первый коммит

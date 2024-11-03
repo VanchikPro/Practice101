@@ -1,0 +1,43 @@
+commit e50a61cbbe7ec1a5385945c15cd02989413e2275
+Author: Артём <polyakov0202@bk.ru>
+Date:   Sun Nov 3 11:59:37 2024 +0500
+
+    add prerelease.txt
+
+commit f56ce52ea22d0edd99afed9776f9a18e0e49f251
+Author: Артём <polyakov0202@bk.ru>
+Date:   Sun Nov 3 12:00:31 2024 +0500
+
+    add test.txt
+
+commit 18d078f2c737efdb18ac02541d0c322554fc4602
+Author: Артём <polyakov0202@bk.ru>
+Date:   Sun Nov 3 11:57:33 2024 +0500
+
+    add .gitignore
+
+commit 6745da721fb02a339c12f1e024404f332ce7716b
+Author: Артём <polyakov0202@bk.ru>
+Date:   Sun Nov 3 11:53:38 2024 +0500
+
+    Revert "add task rating to readme.txt"
+    
+    This reverts commit b1c44f192eba8849cce85e54bfa8b71328167749.
+
+commit 081797aa54dea97d1a5c850c343bafe996284dcb
+Author: Артём <polyakov0202@bk.ru>
+Date:   Sun Nov 3 11:49:17 2024 +0500
+
+    add class number to readme.txt
+
+commit b1c44f192eba8849cce85e54bfa8b71328167749
+Author: Артём <polyakov0202@bk.ru>
+Date:   Sun Nov 3 11:46:17 2024 +0500
+
+    add task rating to readme.txt
+
+commit bb77ac5e9f564f5b235bd8a3814476a7720bcca8
+Author: Артём <polyakov0202@bk.ru>
+Date:   Sun Nov 3 11:44:19 2024 +0500
+
+    add readme.txt

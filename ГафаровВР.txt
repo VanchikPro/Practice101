@@ -1,0 +1,37 @@
+commit a949cea44208a3d6914df92b5b149307d826029e
+Author: Vlad Gafarov <boi.foma@yandex.ru>
+Date:   Mon Nov 4 13:08:12 2024 +0500
+
+    test.txt
+
+commit b970638b217c7e33959c3c5c8cd0ba76f93c5421
+Author: Vlad Gafarov <boi.foma@yandex.ru>
+Date:   Mon Nov 4 13:06:11 2024 +0500
+
+    gitignore
+
+commit f661a65802b0476d9515f1eb2ed763f3df1b5d93
+Author: Vlad Gafarov <boi.foma@yandex.ru>
+Date:   Mon Nov 4 13:04:37 2024 +0500
+
+    Revert "second, changed"
+    
+    This reverts commit f61f0038b94071d47983a8c1e690d24953d803d1.
+
+commit 0366e2db28090a2f075dd77ddd5906651c6191a5
+Author: Vlad Gafarov <boi.foma@yandex.ru>
+Date:   Mon Nov 4 12:59:14 2024 +0500
+
+    third
+
+commit f61f0038b94071d47983a8c1e690d24953d803d1
+Author: Vlad Gafarov <boi.foma@yandex.ru>
+Date:   Mon Nov 4 12:56:27 2024 +0500
+
+    second, changed
+
+commit 3e9111128c4f0ebb13bf0aa56bdc65d121d039fd
+Author: Vlad Gafarov <boi.foma@yandex.ru>
+Date:   Mon Nov 4 12:54:19 2024 +0500
+
+    init

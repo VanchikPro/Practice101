@@ -1,0 +1,50 @@
+commit 6a8bed3fc5bc3fc25a5e6ae3be28025131355e1a
+Merge: bd9ed2a 072acab
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Tue Nov 5 21:40:43 2024 +0500
+
+    Merge branch 'TEST' into PRERELEASE
+
+commit bd9ed2a64451bc275b44869296609160ce3343a9
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Tue Nov 5 21:40:18 2024 +0500
+
+    Add prerelease.txt
+
+commit 072acab45efda8721c2bb64907dda5232ae894e8
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Tue Nov 5 21:38:55 2024 +0500
+
+    Add test.txt
+
+commit ebe623793781d0b326869007575cb1b16ed1d0e1
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Tue Nov 5 21:34:09 2024 +0500
+
+    Add .gitignore
+
+commit 5840dd7fd8d9d346a47e049b68bf5ed503285bb2
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Tue Nov 5 21:33:24 2024 +0500
+
+    Revert "Update readme.txt"
+    
+    This reverts commit 54b10ab15ab13b8cfb7abba0c09f52373e4db796.
+
+commit d5229d4d5b0af71b1b339fe20602db938066ce1b
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Tue Nov 5 21:31:40 2024 +0500
+
+    Update readme.txt
+
+commit 54b10ab15ab13b8cfb7abba0c09f52373e4db796
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Tue Nov 5 21:26:27 2024 +0500
+
+    Update readme.txt
+
+commit 286b03d75cd9339e8a1fb10653e2cffd0dc93086
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Tue Nov 5 21:25:22 2024 +0500
+
+    Add readme.txt

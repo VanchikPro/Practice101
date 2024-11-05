@@ -1,0 +1,41 @@
+commit 6577e7a2b40a52a78de14f4c59db11a82e9c53f5
+Author: spareProfile <da.baranova_1017@mail.ru>
+Date:   Tue Nov 5 12:03:26 2024 +0500
+
+    PRERELEASE
+
+commit d19ab6e2996658c5bb901c03b602db3210f81068
+Author: spareProfile <da.baranova_1017@mail.ru>
+Date:   Tue Nov 5 12:05:29 2024 +0500
+
+    test
+
+commit 33f8ee76a1c6475763f5d1108e2c766869382f8d
+Author: spareProfile <da.baranova_1017@mail.ru>
+Date:   Tue Nov 5 12:01:12 2024 +0500
+
+    gitignore
+
+commit 1670e76e8de7814a778651754bb32c55177f2d0e
+Author: spareProfile <da.baranova_1017@mail.ru>
+Date:   Tue Nov 5 12:00:05 2024 +0500
+
+    reverts commit ff857fd9
+
+commit 8f13ab32878e1731b72695ef80e0e7a4ea1f59f5
+Author: spareProfile <da.baranova_1017@mail.ru>
+Date:   Tue Nov 5 11:57:28 2024 +0500
+
+    third commit
+
+commit ff857fd9caa5356e0a1573a640b4a55f7cd0bc44
+Author: spareProfile <da.baranova_1017@mail.ru>
+Date:   Tue Nov 5 11:49:18 2024 +0500
+
+    second, changes
+
+commit eca25718d0d60d6f22e0b09c49ea6b2ca643ffa7
+Author: spareProfile <da.baranova_1017@mail.ru>
+Date:   Tue Nov 5 11:47:34 2024 +0500
+
+    my first commit
